@@ -34,10 +34,10 @@ npm run serve
 
 ## 效果图
 
-![image-20210510170335078](https://i.loli.net/2021/05/10/nmP4TY9QdHFpXMo.png)
+![image-20210510170335078](asset/nmP4TY9QdHFpXMo.png)
 
 
 
 
 
-![image-20210510170346899](https://i.loli.net/2021/05/10/djNbYxR6oKLS4Qi.png)
+![image-20210510170346899](asset/djNbYxR6oKLS4Qi.png)
