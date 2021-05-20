@@ -34,10 +34,4 @@ npm run serve
 
 ## 效果图
 
-![image-20210510170335078](asset/nmP4TY9QdHFpXMo.png)
-
-
-
-
-
-![image-20210510170346899](asset/djNbYxR6oKLS4Qi.png)
+[体验网址](http://120.78.149.188:3000/)
