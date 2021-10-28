@@ -58,9 +58,9 @@ npm run serve
 
 ## 完成功能
 
-规范化
+代码规范
 
-- [ ] Git规范化
+- [x] 添加commitizen规范commit  message
 
 数据库业务
 

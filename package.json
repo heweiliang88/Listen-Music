@@ -1,0 +1,28 @@
+{
+  "name": "Listen-Music",
+  "version": "1.0.0",
+  "description": "​\t\t本项目采用前后端分离架构模式，引入NodeJS层为服务桥接层，前端主要负责页面的渲染工作，后端主要完成大量的逻辑计算和具体业务逻辑层，这种架构模式提高了工作效率、降低维护成本和使局部性能提升。前端技术主要使用了es6、vue 全家桶（vue、vue-router、vuex）。后端技术实现了数据接口NodeJS服务层，通过编写接口。为了可定制化的轻量级网站管理，本项目采用了轻业务层的模式，主要功能围绕的是视图效果的实现。存储技术使用了前端浏览器数据存储方式通过Cookie存储用户登陆凭证、使用localStroage和SessiosnStroage的方式存储网站基本状态信息。数据接口对接了第三方开源网易云音乐的数据接口项目。代码规范使用了eslint 接口规范使用Restful风格的接口。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heweiliang88/Listen-Music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heweiliang88/Listen-Music/issues"
+  },
+  "homepage": "https://github.com/heweiliang88/Listen-Music#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
